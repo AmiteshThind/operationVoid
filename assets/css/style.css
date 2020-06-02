@@ -1316,6 +1316,10 @@ END Contact Area
     border-bottom: 1px solid #efeaea;
 }
 
+#para{
+    cursor: pointer;
+}
+
 .comment-title {}
 
 .comment-title h4 {
